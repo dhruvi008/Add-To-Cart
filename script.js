@@ -110,44 +110,44 @@ const cart = new Cart();
 const smapleProducts = [
     {
         name: "Product 1",
-        description: "description of project 1",
-        image: "https://placehold.co/300x300",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        image: "https://img.freepik.com/free-photo/mid-century-modern-living-room-interior-design-with-monstera-tree_53876-129805.jpg",
     },
     {
         name: "Product 2",
-        description: "description of project 2",
-        image: "https://placehold.co/300x300",
+        image: "https://t4.ftcdn.net/jpg/03/71/92/67/360_F_371926762_MdmDMtJbXt7DoaDrxFP0dp9Nq1tSFCnR.jpg ",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
     },
     {
         name: "Product 3",
-        description: "description of project 3",
-        image: "https://placehold.co/300x300",
+        image: "https://media.istockphoto.com/id/1212526330/photo/bohemian-living-room-interior-3d-render.jpg?s=612x612&w=0&k=20&c=iIQ5wqa4NYpLn0YJvT_NAzMilwTFkTlprwbXAasOn9s=",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
     },
     {
         name: "Product 4",
-        description: "description of project 4",
-        image: "https://placehold.co/300x300",
+        image: "https://media.architecturaldigest.com/photos/5e4ecf2c2e0cf600096c27fa/master/w_1600%2Cc_limit/RH-Outdoor-2020-066x067_T316_OD20OD1_V1.jpg",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
     },
     {
         name: "Product 5",
-        description: "description of project 5",
-        image: "https://placehold.co/300x300",
+        image: "https://img.staticmb.com/mbcontent/images/crop/uploads/2023/12/minimalistic-kitchen-furniture-and-rattan-chairs_0_1200.jpg",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
     },
     {
         name: "Product 6",
-        description: "description of project 6",
-        image: "https://placehold.co/300x300",
+        image: "https://cdn.media.amplience.net/i/boconcept/8462066f-32ac-4b7e-9b6c-b1ef0072aaaf?locale=*&w=3020&fmt=auto&upscale=false&sm=c&qlt=75&h=1691&%24auto-poi%24=",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
     },
     {
         name: "Product 7",
-        description: "description of project 7",
-        image: "https://placehold.co/300x300",
+        image: "https://assets.bdiusa.com/BDI-products-1200x1200/OFFICE/LINQ-OFFICE/DESK-6821/WALNUT/_1440x810_crop_center-center_none/linq-modern-executive-office-desk-BDI-furniture-mid-century-modern-office-1440.jpg?v=1725020660",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
     },
 
     {
         name: "Product 8",
-        description: "description of project 8",
-        image: "https://placehold.co/300x300",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        image: "https://www.oakfurnitureland.co.uk/blog/wp-content/uploads/2023/10/Oak-Furnitureland-bedroom-furniture-upholstered-bed-Wren-midnight-blue-800x528.jpg",
     }
 ];
 
